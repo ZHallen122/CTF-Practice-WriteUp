@@ -6,7 +6,7 @@ A win return question
 
 ## Analysis
 
-The vulnable function is vuln, because the gets is dangerous. It will cause buf overflow and overwrite things.
+The vulnerable function is vuln, because the gets is dangerous. It will cause buf overflow and overwrite things.
 
 The code also show our target is win function.
 
